@@ -13,7 +13,7 @@ A list of practical projects that anyone can solve in any programming language (
 This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
 
 
-## Table of Contents
+## Table of Contents (7/92)
 
 - Numbers
 - Classic Algorithms
@@ -27,7 +27,7 @@ This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
 - Files
 - Databases
 - Graphics and Multimedia
-- Security
+- ~~Security~~
 
 Numbers (5/22)
 ---------
@@ -109,12 +109,12 @@ Data Structures (0/1)
 **Inverted index** - An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
 
 
-Text (0/12)
+Text (1/12)
 ---------
 
 **Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
-**Reverse a String** - Enter a string and the program will reverse it and print it out.
+~~**Reverse a String** - Enter a string and the program will reverse it and print it out.~~
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
@@ -260,7 +260,7 @@ Graphics and Multimedia (0/6)
 **GIF Creator** A program that puts together multiple images (PNGs, JPGs, TIFFs) to make a smooth GIF that can be exported. *Optional: Make the program convert small video files to GIFs as well.*
 
 
-Security (1/1)
+~~Security (1/1)~~
 -------------
 
 ~~**Caesar cipher** - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.~~
