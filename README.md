@@ -1,4 +1,4 @@
-Hi! I needed a running list of puzzles to keep me occupied on rainy days over the summer, and I'm glad you found it. As I complete any of the following, I will merge it into the solutions/russellcain branch and update this file to cross it off! (Maybe I will make a little list of completed ones, too. We shall see.)
+Hi! I needed a running list of puzzles to keep me occupied on rainy days over the summer, and I'm glad you found it. As I complete any of the following, I will merge it into the solutions branch and update this file to cross it off! (Maybe I will make a little list of completed ones, too. We shall see.)
 
 Further, feel free to see which project I am working on by checking out the tinkering/{puzzle name} branch which will hopefully be open and whirring.
 
@@ -36,7 +36,7 @@ Numbers
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+~~**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.~~
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
