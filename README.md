@@ -13,7 +13,7 @@ A list of practical projects that anyone can solve in any programming language (
 This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
 
 
-## Table of Contents (10/92)
+## Table of Contents (11/92)
 
 - Numbers
 - Classic Algorithms
@@ -76,14 +76,14 @@ Numbers (5/22)
 
 **Fast Exponentiation** - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity.
 
-Classic Algorithms (1/4)
+Classic Algorithms (3/4)
 -----------------
 
-**Collatz Conjecture** - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
+~~**Collatz Conjecture** - Start with a number *n > 1*. Find the number of steps it takes to reach 1, using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.~~
 
 **Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
-**Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them.
+~~**Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them.~~
 
 ~~**Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).~~
 
