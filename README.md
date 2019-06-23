@@ -13,7 +13,7 @@ A list of practical projects that anyone can solve in any programming language (
 This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
 
 
-## Table of Contents (13/92)
+## Table of Contents (14/92)
 
 - Numbers
 - Classic Algorithms
@@ -109,7 +109,7 @@ Data Structures (0/1)
 **Inverted index** - An [Inverted Index](http://en.wikipedia.org/wiki/Inverted_index) is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
 
 
-Text (3/12)
+Text (4/12)
 ---------
 
 ~~**Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.~~
@@ -126,7 +126,7 @@ Text (3/12)
 
 **Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.*
 
-**RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them.
+~~**RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them.~~
 
 **Quote Tracker (market symbols etc)** - A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked. For CLI, show whether the stock has moved up or down. *Optional: If GUI, the program can show green up and red down arrows to show which direction the stock value has moved.*
 
